@@ -1,6 +1,5 @@
 <script>
-import Badge from "$lib/Badge.svelte"
-import NoWei from "$lib/NoWei.svelte"
+import { Badge, NoWei } from "$lib"
 </script>
 
 <NoWei persistent={false} />
