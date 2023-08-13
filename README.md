@@ -8,6 +8,8 @@ The Web Environment Integrity (WEI) API is, to some extent, malicious. It allows
 
 ## How to use
 
+> This project is licensed under [MIT](https://mit-license.org/)
+
 1. Install
 
 ```bash
