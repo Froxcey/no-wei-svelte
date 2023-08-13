@@ -6,6 +6,13 @@ Fighting the demon king of the open web, using Svelte.
 
 The Web Environment Integrity (WEI) API is, to some extent, malicious. It allows attesters to block certain users from accessing a website, basically discrimination on the web. For more information, [see here](https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet).
 
+## Screenshots
+
+<img width="1280" alt="no-wei" src="https://github.com/Froxcey/no-wei-svelte/assets/51555391/5e3e3374-bac3-4068-8530-d39030178cd4">
+
+![Badges](https://github.com/Froxcey/no-wei-svelte/assets/51555391/4a46fac6-da1a-456b-8ccb-8a11e0322635)
+
+
 ## How to use
 
 > This project is licensed under [MIT](https://mit-license.org/)
