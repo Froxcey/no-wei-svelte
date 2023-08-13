@@ -20,7 +20,7 @@ The Web Environment Integrity (WEI) API is, to some extent, malicious. It allows
 1. Install
 
 ```bash
-npm install no-wei-svelte
+npm install --save no-wei-svelte
 ```
 
 2. Use in your Svelte project

@@ -1,7 +1,7 @@
 {
 	"name": "no-wei-svelte",
 	"description": "Fighting the demon king of the open web, using Svelte",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"repository": "https://github.com/froxcey/no-wei-svelte.git",
 	"homepage": "https://github.com/froxcey/no-wei-svelte#readme",
 	"bugs": {
