@@ -1,3 +1,6 @@
+> # ⚠️ Deprecated
+> [WEI has been reverted](https://chromium-review.googlesource.com/c/chromium/src/+/5001989), so I am deprecating this project.
+
 # No-Wei-Svelte
 
 Fighting the demon king of the open web, using Svelte.
